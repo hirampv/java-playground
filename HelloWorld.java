@@ -10,5 +10,7 @@ public class HelloWorld {
         System.out.println(string1 == string2);
         System.out.println(string1.hashCode());
         System.out.println(string2.hashCode());
+
+        LinkedList myList = new LinkedList();
     }
 }
