@@ -1,5 +1,5 @@
 public class Shape {
-    int sides;
+    protected int sides;
     
     public Shape(int sides) {
         this.sides = sides;
